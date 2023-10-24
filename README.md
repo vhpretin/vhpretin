@@ -10,8 +10,13 @@ Meu nome e vitor hugo gabriel 🥇
 
 
 
-  ! [ ] (https://media.tenor.com/6CujUsC1CIkAAAAM/crying-black-guy-meme50fps-interpolated-interpolated.gif)
+
+
+  ![](https://media.tenor.com/6CujUsC1CIkAAAAM/crying-black-guy-meme50fps-interpolated-interpolated.gif)
   
+
+
+
 
 
 <!--
