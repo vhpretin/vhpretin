@@ -10,7 +10,7 @@ Meu nome e vitor hugo gabriel 🥇
 
 
 
- ![ ] (https://media.tenor.com/l6PveoT4WYMAAAAC/neymar-number10.gif
+ ![ ] (https://media.tenor.com/l6PveoT4WYMAAAAC/neymar-number10.gif)
   
 
 
