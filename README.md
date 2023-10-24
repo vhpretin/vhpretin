@@ -7,6 +7,8 @@ Meu nome e vitor hugo gabriel 🥇
 - Utilizo este espaço para salvar meus projetos e compartilhar meus codigos.
 
   ### Meu e-mail para contato 📧
+
+  ![](https://media.tenor.com/7eNUmiaG4TgAAAAd/theuss.gif)
   
 
 
